@@ -1,2 +1,3 @@
 Nouveau fichier
 Je viens de faire une modification directement en ligne
+mais aussi de puis ma machine locale
